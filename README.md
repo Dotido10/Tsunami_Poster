@@ -1,1 +1,5 @@
+The natural disasters that have struck the country over the past decade have exposed its vulnerability. Haiti's geographical position and geodynamic context make it highly susceptible to seismic and tsunami threats, particularly along the northern coast. Historical data indicate significant wave heights and document tragic flood events, notably in Port-de-Paix, Cap-Haïtien (where more than 300 people lost their lives due to a tsunami), and Fort-Liberté following the May 7, 1842 earthquake. Assessing this threat is essential, and informing the population is a priority to facilitate decision-making and disaster management by the relevant authorities.
+
+This study builds on previous efforts in Cap-Haïtien and Port-de-Paix to develop tsunami evacuation maps for these cities. The objective was to conduct a pilot study on the city of Fort-Liberté. This study resulted in the creation of an evacuation map, which served as a decision-making tool during the full-scale tsunami simulation exercise conducted in Fort-Liberté on March 23, 2017.
+
 [![DOI](https://zenodo.org/badge/911341535.svg)](https://doi.org/10.5281/zenodo.14894395)
